@@ -1,6 +1,7 @@
 output/
 venv/
 temp/
+devdata/
 .rpa/
 .idea/
 .ipynb_checkpoints/
