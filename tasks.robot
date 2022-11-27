@@ -34,4 +34,4 @@ Insert date and other
     Input Text     f_pvm  ${time}
     Input Text    f_vesi    ${kulutus}
     Input Text    phone    %{puhnro}
-    #Submit Form
+    Submit Form
